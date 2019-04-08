@@ -1,0 +1,9 @@
+spring:
+  redis:
+    database: 0
+    password: root
+
+
+server:
+  port: 9998
+

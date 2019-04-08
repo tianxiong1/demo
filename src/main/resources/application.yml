@@ -1,0 +1,15 @@
+spring:
+  redis:
+    database: 0
+    password: root
+
+
+server:
+  port: 9999
+
+app:
+  id: demo
+
+
+apollo:
+  meta : http://config-service-url
