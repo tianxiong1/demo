@@ -24,8 +24,12 @@ public class Test1 {
     }
 
     public static void main(String[] args) {
-        int a [] = {2, 7, 11, 15};
+       /* int a [] = {2, 7, 11, 15};
         int target = 19;
-        int retunrA[] = a(a,target);
+        int retunrA[] = a(a,target);*/
+
+       String a= "12345";
+      // String b = a.substring(0,10);
+       // System.out.println(a+"====="+b);
     }
 }

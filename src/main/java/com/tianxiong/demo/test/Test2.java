@@ -8,6 +8,9 @@ public class Test2 {
         C c = a(c1);
         System.out.println("出来后的c1"+c1+"----"+c1.i);
         System.out.println("出来后的c"+c+"----"+c.i);
+
+        String a = "drer"+null;
+        System.out.println("aaaa"+a);
     }
     static C a(C c){
         C c2 = new C();

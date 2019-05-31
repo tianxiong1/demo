@@ -9,6 +9,8 @@ public class Test {
         People p1 = factory1.createPeople();
         p1.eat();
 
+        People [] app = new People[]{new Woman()};
+        app.clone();
         //可以设置为变量   通过反射加载工厂类
         String a = "com.tianxiong.demo.gongchangfangfa.ManFactory";
         try {
