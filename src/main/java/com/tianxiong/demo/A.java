@@ -18,6 +18,9 @@ public class A {
 
         System.out.println("construct with a double value: "+aint);
 
+
         System.out.println("切回主分支了");
+        System.out.println("第二个分支");
+        System.out.println("都要了");
     }
 }
