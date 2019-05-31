@@ -17,5 +17,7 @@ public class A {
         BigDecimal aint =new BigDecimal(1.1);
 
         System.out.println("construct with a double value: "+aint);
+
+        System.out.println("第二个分支");
     }
 }
