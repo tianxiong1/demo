@@ -21,6 +21,7 @@ public class A {
 
         System.out.println("切回主分支了");
         System.out.println("第二个分支");
+
         System.out.println("都要了");
 
         System.out.println("要冲突了");
